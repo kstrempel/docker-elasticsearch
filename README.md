@@ -41,3 +41,9 @@ This repository contains **Dockerfile** of [Elasticsearch](http://www.elasticsea
     ```
 
 After few seconds, open `http://<host>:9200` to see the result.
+
+
+
+#### Installed plugings
+
+- http://mobz.github.io/elasticsearch-head/
