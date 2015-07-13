@@ -7,7 +7,7 @@
 # Pull base image.
 FROM java:openjdk-8-jre
 
-ENV ES_PKG_NAME elasticsearch-1.4.2
+ENV ES_PKG_NAME elasticsearch-1.6.0
 
 # Install Elasticsearch.
 RUN \
